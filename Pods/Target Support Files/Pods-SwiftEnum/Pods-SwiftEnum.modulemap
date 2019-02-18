@@ -1,0 +1,6 @@
+framework module Pods_SwiftEnum {
+  umbrella header "Pods-SwiftEnum-umbrella.h"
+
+  export *
+  module * { export * }
+}

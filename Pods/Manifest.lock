@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Cartography (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cartography
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cartography
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Cartography: 1988b7578871a56c036e7af17195cb2190edf18c
+
+PODFILE CHECKSUM: 9cd8b20751a8db011bd1bba394c9ff0405f2ed3a
+
+COCOAPODS: 1.6.0

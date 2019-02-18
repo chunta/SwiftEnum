@@ -1,0 +1,6 @@
+framework module Pods_SwiftEnumTests {
+  umbrella header "Pods-SwiftEnumTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
